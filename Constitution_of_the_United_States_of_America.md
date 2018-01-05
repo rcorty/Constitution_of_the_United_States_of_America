@@ -24,6 +24,7 @@ The House of Representatives shall choose their Speaker and other officers; and 
 No person shall be a Representative in Congress, who, having previously taken an oath, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an executive or judicial officer of any State, to support the Constitution of the United States, shall have engaged in insurrection or rebellion against the same, or given aid or comfort to the enemies thereof.
 But Congress may, by a vote of two-thirds of each House, remove such disability.
 The terms of the Representatives shall end at noon on the 3rd day of January, of the years in which such terms would have ended if this article had not been ratified; and the terms of their successors shall then begin.
+The District constituting the seat of Government of the United States shall appoint in such manner as the Congress may direct a number of electors of President and Vice President equal to the whole number of Senators and Representatives in Congress to which the District would be entitled if it were a State, but in no event more than the least populous State; they shall be in addition to those appointed by the States, but they shall be considered, for the purposes of the election of President and Vice President, to be electors appointed by a State; and they shall meet in the District and perform such duties as provided by the twelfth article of amendment.
 
 ### Section 3
 
