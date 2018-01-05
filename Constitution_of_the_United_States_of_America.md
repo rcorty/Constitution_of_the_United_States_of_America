@@ -230,7 +230,3 @@ Neither slavery nor involuntary servitude, except as a punishment for crime wher
 All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside.
 No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.
 The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, previous condition of servitude, or sex.
-
-## ARTICLE IX
-
-The manufacture, sale, or transportation of intoxicating liquors within, the importation thereof into, or the exportation thereof from the United States and all the territory subject to the jurisdiction thereof for beverage purposes is hereby prohibited.
