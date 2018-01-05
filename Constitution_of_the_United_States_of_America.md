@@ -15,11 +15,14 @@ All legislative powers herein granted shall be vested in a Congress of the Unite
 
 The House of Representatives shall be composed of members chosen every second year by the people of the several States; and the elector in each State shall have the qualifications requisite for electors of the most numerous branch of the State Legislature.
 No person shall be a Representative who shall not have attained the age of twenty-five years, and been seven years a Citizen of the United States, and who shall not, when elected, be an inhabitant of that State in which he shall be chosen.
-Representatives and direct taxes shall be apportioned among the several States which may be included within this Union, according to their respective numbers, which shall be determined by adding the whole number of free persons, including those bound to service for a term of years, and excluding Indians not taxed, three-fifths of all other persons.
+Representatives and direct taxes shall be apportioned among the several States which may be included within this Union, according to their respective numbers, which shall be determined by adding the whole number of free persons, including those bound to service for a term of years, and excluding Indians not taxed.
+But when the right to vote at any election for the choice of electors for President and Vice President of the United States, Representatives in Congress, the Executive and Judicial officers of a State, or the members of the Legislature thereof, is denied to any of the male inhabitants of such State, being twenty-one years of age, and citizens of the United States, or in any way abridged, except for participation in rebellion, or other crime, the basis of representation therein shall be reduced in the proportion which the number of such male citizens shall bear to the whole number of male citizens twenty-one years of age in such State.
 The actual enumeration shall be made within three years after the first meeting of the Congress of the United States, and within every subsequent term of ten years, in such manner as they shall by law direct.
 The number of Representatives shall not exceed one for every thirty thousand, but each State shall have at least one Representative; and until such enumeration shall be made, the State of New Hampshire shall be entitled to choose three, Massachusetts eight, Rhode Island and Providence Plantations one, Connecticut five, New York six, New Jersey four, Pennsylvania eight, Delaware one, Maryland six, Virginia ten, North Carolina five, South Carolina five, and Georgia three.
 When vacancies happen in the representation from any State, the executive authority thereof shall issue writs of election to fill such vacancies.
 The House of Representatives shall choose their Speaker and other officers; and shall have the sole power of impeachment.
+No person shall be a Representative in Congress, who, having previously taken an oath, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an executive or judicial officer of any State, to support the Constitution of the United States, shall have engaged in insurrection or rebellion against the same, or given aid or comfort to the enemies thereof.
+But Congress may, by a vote of two-thirds of each House, remove such disability.
 
 ### Section 3
 
@@ -34,6 +37,8 @@ The Senate shall have the sole power to try all impeachments.
 When sitting for that purpose, they shall be on oath or affirmation.
 When the President of the United States is tried, the Chief Justice shall preside; and no person shall be convicted without the concurrence of two-thirds of the members present.
 Judgment in cases of impeachment shall not extend further than to removal from office, and disqualification to hold and enjoy any office of honor, trust, or profit under the United States; but the party convicted shall nevertheless be liable and subject to indictment, trial, judgment and punishment according to law.
+No person shall be a Senator, who, having previously taken an oath, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an executive or judicial officer of any State, to support the Constitution of the United States, shall have engaged in insurrection or rebellion against the same, or given aid or comfort to the enemies thereof.
+But Congress may, by a vote of two-thirds of each House, remove such disability.
 
 ### Section 4
 
@@ -56,7 +61,6 @@ No Senator or Representative shall, during the time for which he was elected, be
 ### Section 7
 
 All bills for raising revenue shall originate in the House of Representatives; but the Senate may propose or concur with amendments as on other bills.
-
 Every bill which shall have passed the House of Representatives and the Senate, shall, before it become a law, be presented to the president of the United States; 
 if he approve, he shall sign it, but if not, he shall return it, with his objections, to that house in which it shall have originated, who shall enter the objections at large on their journal, and proceed to reconsider it.
 If after such reconsideration, two thirds of that house shall agree to pass the bill, it shall be sent, together with the objections, to the other house, by which it shall likewise be reconsidered, and if approved by two-thirds of that house, it shall become a law.
@@ -111,6 +115,8 @@ No state shall, without the consent of Congress, lay any duty of tonnage, keep t
 The Executive power shall be vested in a President of the United States of America.
 He shall hold office during the term of four years, and together with the Vice President, chosen for the same term, be elected as follows:
 Each State shall appoint, in such manner as the Legislature may direct, a number of electors equal to the whole number of Senators and Representatives to which the State may be entitled in the Congress; but no Senator or Representative, or person holding an office of trust or profit under the United States, shall be appointed an elector.
+No person shall be an elector of President and Vice President, or hold any office, civil or military, under the United States, or under any State, who, having previously taken an oath, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an executive or judicial officer of any State, to support the Constitution of the United States, shall have engaged in insurrection or rebellion against the same, or given aid or comfort to the enemies thereof.
+But Congress may, by a vote of two-thirds of each House, remove such disability.
 The Electors shall meet in their respective states, and vote by ballot for President and Vice-President, one of whom, at least, shall not be an inhabitant of the same state with themselves; they shall name in their ballots the person voted for as President, and in distinct ballots the person voted for as Vice-President, and they shall make distinct lists of all persons voted for as President, and all persons voted for as Vice-President and of the number of votes for each, which lists they shall sign and certify, and transmit sealed to the seat of the government of the United States, directed to the President of the Senate
 The President of the Senate shall, in the presence of the Senate and House of Representatives, open all the certificates and the votes shall then be counted.
 The person having the greatest number of votes for President, shall be the President, if such number be a majority of the whole number of Electors appointed; and if no person have such majority, then from the persons having the highest numbers not exceeding three on the list of those voted for as President, the House of Representatives shall choose immediately, by ballot, the President.
@@ -190,8 +196,8 @@ The Congress, whenever two-thirds of both houses shall deem it necessary, shall 
 ## ARTICLE VI
 
 All debts contracted and engagements entered into, before the adoption of this constitution, shall be as valid against the United States under this constitution, as under the confederation.
-This constitution, and the laws of the United States which shall be made in 
-pursuance thereof; and all treaties made, or which shall be made, under the authority of the United States shall be the supreme law of the land; and the judges in every state shall be bound thereby, anything in the constitution or laws of any state to the contrary notwithstanding.
+The validity of the public debt of the United States, authorized by law, including debts incurred for payment of pensions and bounties for services in suppressing insurrection or rebellion, shall not be questioned. But neither the United States nor any State shall assume or pay any debt or obligation incurred in aid of insurrection or rebellion against the United States, or any claim for the loss or emancipation of any slave; but all such debts, obligations and claims shall be held illegal and void.
+This constitution, and the laws of the United States which shall be made in pursuance thereof; and all treaties made, or which shall be made, under the authority of the United States shall be the supreme law of the land; and the judges in every state shall be bound thereby, anything in the constitution or laws of any state to the contrary notwithstanding.
 The senators and representatives before-mentioned, and the members of the several state legislatures, and all executive and judicial officers, both of the United States and of the several states, shall be bound by oath or affirmation, to support this constitution; but no religious test shall ever be required as a qualification to any office or public trust under the United States.
 
 ## ARTICLE VII
@@ -216,3 +222,5 @@ Excessive bail shall not be required, nor excessive fines imposed, nor cruel and
 The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people.
 The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people.
 Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction.
+All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside.
+No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.
