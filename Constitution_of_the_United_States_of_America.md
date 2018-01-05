@@ -26,8 +26,9 @@ But Congress may, by a vote of two-thirds of each House, remove such disability.
 
 ### Section 3
 
-The Senate of the United States shall be composed of two Senators from each State, chosen by the Legislature thereof for six years; and each Senator shall have one vote.
-Immediately after they shall be assembled, in consequence of the first election, they shall be divided as equally as may be into three classes.
+The Senate of the United States shall be composed of two Senators from each State, elected by the people thereof, for six years; and each Senator shall have one vote.
+When vacancies happen in the representation of any State in the Senate, the executive authority of such State shall issue writs of election to fill such vacancies: Provided, That the legislature of any State may empower the executive thereof to make temporary appointments until the people fill the vacancies by election as the legislature may direct.
+The electors in each State shall have the qualifications requisite for electors of the most numerous branch of the State legislatures.Immediately after they shall be assembled, in consequence of the first election, they shall be divided as equally as may be into three classes.
 The seats of the Senators of the first class shall be vacated at the expiration of the second year, of the second class at the expiration of the fourth year, and of the third class at the expiration of the sixth year, so that one-third may be chosen every second year; and if vacancies happen by resignation, or otherwise, during the recess of the Legislature of any State, the Executive thereof may make temporary appointments until the next meeting of the Legislature, which shall then fill such vacancies.
 No person shall be a Senator who shall not have attained to the age of thirty years, and been nine years a Citizen of the United States, and who shall not, 
 when elected, be an inhabitant of that State for which he shall be chosen.
