@@ -15,7 +15,7 @@ All legislative powers herein granted shall be vested in a Congress of the Unite
 
 The House of Representatives shall be composed of members chosen every second year by the people of the several States; and the elector in each State shall have the qualifications requisite for electors of the most numerous branch of the State Legislature.
 No person shall be a Representative who shall not have attained the age of twenty-five years, and been seven years a Citizen of the United States, and who shall not, when elected, be an inhabitant of that State in which he shall be chosen.
-Representatives and direct taxes shall be apportioned among the several States which may be included within this Union, according to their respective numbers, which shall be determined by adding the whole number of free persons, including those bound to service for a term of years, and excluding Indians not taxed.
+Representatives shall be apportioned among the several States which may be included within this Union, according to their respective numbers, which shall be determined by adding the whole number of free persons, including those bound to service for a term of years, and excluding Indians not taxed.
 But when the right to vote at any election for the choice of electors for President and Vice President of the United States, Representatives in Congress, the Executive and Judicial officers of a State, or the members of the Legislature thereof, is denied to any of the male inhabitants of such State, being twenty-one years of age, and citizens of the United States, or in any way abridged, except for participation in rebellion, or other crime, the basis of representation therein shall be reduced in the proportion which the number of such male citizens shall bear to the whole number of male citizens twenty-one years of age in such State.
 The actual enumeration shall be made within three years after the first meeting of the Congress of the United States, and within every subsequent term of ten years, in such manner as they shall by law direct.
 The number of Representatives shall not exceed one for every thirty thousand, but each State shall have at least one Representative; and until such enumeration shall be made, the State of New Hampshire shall be entitled to choose three, Massachusetts eight, Rhode Island and Providence Plantations one, Connecticut five, New York six, New Jersey four, Pennsylvania eight, Delaware one, Maryland six, Virginia ten, North Carolina five, South Carolina five, and Georgia three.
@@ -92,10 +92,9 @@ To make all laws which shall be necessary and proper for carrying into execution
 
 ### Section 9
 
-The migration or importation of such persons as any of the states now existing shall think proper to admit, shall not be prohibited by the Congress prior to the year 1808, but a tax or duty may be imposed on such importations, not exceeding llars for each person.
+The migration or importation of such persons as any of the states now existing shall think proper to admit, shall not be prohibited by the Congress prior to the year 1808, but a tax or duty may be imposed on such importations, not exceeding ten dollars for each person.
 The privilege of the writ of habeas corpus shall not be suspended, unless when in cases of rebellion or invasion the public safety may require it.
 No bill of attainder or ex post facto law shall be passed.
-No capitation, or other direct tax shall be laid unless in proportion to the census or enumeration herein before directed to be taken.
 No tax or duty shall be laid on articles exported from any state.
 No preference shall be given by any regulation of commerce or revenue to the ports of one state over those of another: nor shall vessels bound to, or from one state, be obliged to enter, clear, or pay duties in another.
 No money shall be drawn from the treasury but in consequence of appropriations made by law; and a regular statement and account of the receipts and expenditures of all public money shall be published from time to time.
