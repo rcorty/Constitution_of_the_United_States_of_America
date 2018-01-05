@@ -23,6 +23,7 @@ When vacancies happen in the representation from any State, the executive author
 The House of Representatives shall choose their Speaker and other officers; and shall have the sole power of impeachment.
 No person shall be a Representative in Congress, who, having previously taken an oath, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an executive or judicial officer of any State, to support the Constitution of the United States, shall have engaged in insurrection or rebellion against the same, or given aid or comfort to the enemies thereof.
 But Congress may, by a vote of two-thirds of each House, remove such disability.
+The terms of the Representatives shall end at noon on the 3rd day of January, of the years in which such terms would have ended if this article had not been ratified; and the terms of their successors shall then begin.
 
 ### Section 3
 
@@ -40,11 +41,12 @@ When the President of the United States is tried, the Chief Justice shall presid
 Judgment in cases of impeachment shall not extend further than to removal from office, and disqualification to hold and enjoy any office of honor, trust, or profit under the United States; but the party convicted shall nevertheless be liable and subject to indictment, trial, judgment and punishment according to law.
 No person shall be a Senator, who, having previously taken an oath, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an executive or judicial officer of any State, to support the Constitution of the United States, shall have engaged in insurrection or rebellion against the same, or given aid or comfort to the enemies thereof.
 But Congress may, by a vote of two-thirds of each House, remove such disability.
+The terms of the Senators shall end at noon on the 3rd day of January, of the years in which such terms would have ended if this article had not been ratified; and the terms of their successors shall then begin.
 
 ### Section 4
 
 The times, places and manner of holding elections for Senators and Representatives, shall be prescribed in each State by the Legislature thereof; but the Congress may, at any time, by law, make or alter such regulations, except as to the places of choosing Senators.
-The Congress shall assemble at least once in every year, and such meeting shall be on the first Monday in December, unless they by law appoint a different day.
+The Congress shall assemble at least once in every year, and such meeting shall begin at noon on the 3d day of January, unless they shall by law appoint a different day.
 
 ### Section 5
 
@@ -121,7 +123,10 @@ The Electors shall meet in their respective states, and vote by ballot for Presi
 The President of the Senate shall, in the presence of the Senate and House of Representatives, open all the certificates and the votes shall then be counted.
 The person having the greatest number of votes for President, shall be the President, if such number be a majority of the whole number of Electors appointed; and if no person have such majority, then from the persons having the highest numbers not exceeding three on the list of those voted for as President, the House of Representatives shall choose immediately, by ballot, the President.
 But in choosing the President, the votes shall be taken by states, the representation from each state having one vote; a quorum for this purpose shall consist of a member or members from two-thirds of the states, and a majority of all the states shall be necessary to a choice.
-And if the House of Representatives shall not choose a President whenever the right of choice shall devolve upon them, before the fourth day of March next following, then the Vice-President shall act as President, as in the case of the death or other constitutional disability of the President.
+The terms of the President and Vice President shall end at noon on the 20th day of January; and the terms of their successors shall then begin.
+If, at the time fixed for the beginning of the term of the President, the President elect shall have died, the Vice President elect shall become President.
+If a President shall not have been chosen before the time fixed for the beginning of his term, or if the President elect shall have failed to qualify, then the Vice President elect shall act as President until a President shall have qualified; and the Congress may by law provide for the case wherein neither a President elect nor a Vice President elect shall have qualified, declaring who shall then act as President, or the manner in which one who is to act shall be selected, and such person shall act accordingly until a President or Vice President shall have qualified.
+The Congress may by law provide for the case of the death of any of the persons from whom the House of Representatives may choose a President whenever the right of choice shall have devolved upon them, and for the case of the death of any of the persons from whom the Senate may choose a Vice President whenever the right of choice shall have devolved upon them.
 The person having the greatest number of votes as Vice-President, shall be the Vice-President, if such number be a majority of the whole number of Electors appointed, and if no person have a majority, then from the two highest numbers on the list, the Senate shall choose the Vice-President; a quorum for the purpose shall consist of two-thirds of the whole number of Senators, and a majority of the whole number shall be necessary to a choice. But no person constitutionally ineligible to the office of President shall be eligible to that of Vice-President of the United States.
 The Congress may determine the time of choosing the electors, and the day on which they shall give their votes; which day shall be the same throughout the United States.
 No person except a natural born Citizen, or a Citizen of the United States, at the time of the adoption of this Constitution, shall be eligible to the office of President; neither shall any person be eligible to that office who shall not have attained to the age of thirty-five years, and been fourteen years a resident within the United States.
