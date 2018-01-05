@@ -215,3 +215,4 @@ In Suits at common law, where the value in controversy shall exceed twenty dolla
 Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted.
 The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people.
 The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people.
+Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction.
