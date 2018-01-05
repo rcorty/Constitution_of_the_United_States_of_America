@@ -134,6 +134,8 @@ In case of the removal of the President from office, or of his death, resignatio
 The President shall, at stated times, receive for his services, a compensation, which shall neither be increased nor diminished during the period for which he shall have been elected, and he shall not receive within that period any other emolument from the United States, or any of them.
 Before he enter on the execution of his office, he shall take the following oath or affirmation: 
 "I do solemnly swear (or affirm) that I will faithfully execute the office of the President of the United States, and will to the best of my ability, preserve, protect and defend the Constitution of the United States."
+No person shall be elected to the office of the President more than twice, and no person who has held the office of President, or acted as President, for more than two years of a term to which some other person was elected President shall be elected to the office of the President more than once.
+But this article shall not apply to any person holding the office of President when this article was proposed by the Congress, and shall not prevent any person who may be holding the office of President, or acting as President, during the term within which this article becomes operative from holding the office of President or acting as President during the remainder of such term.
 
 ### Section 2
 
