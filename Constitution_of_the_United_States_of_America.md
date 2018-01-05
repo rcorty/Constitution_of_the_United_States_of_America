@@ -58,7 +58,7 @@ Neither House, during the session of Congress, shall, without the consent of the
 
 ### Section 6
 
-The Senators and Representatives shall receive a compensation for their services, to be ascertained by law, and paid out of the Treasury of the United States.
+The Senators and Representatives shall receive a compensation for their services, to be ascertained by law, and paid out of the Treasury of the United States, but no law varying the compensation for the services of the Senators and Representatives, shall take effect, until an election of Representatives shall have intervened.
 They shall in all cases, except treason, felony, and breach of the peace, be privileged from arrest during their attendance at the session of their respective Houses, and in going to and returning from the same; and for any speech or debate in either House, they shall not be questioned in any other place.
 No Senator or Representative shall, during the time for which he was elected, be appointed to any civil office under the authority of the United States, which shall have increased during such time; and no person holding any office under the United States, shall be a member of either House during his continuance in office.
 
